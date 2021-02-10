@@ -1,3 +1,3 @@
 # assignment2_test
-2test
+s2test
 test22
